@@ -5,7 +5,7 @@ This repository is to store all the Insurance Documents (Nothing Technical)
 1.Jayakumar mhk
 
 # Health Insurance
-1.Jayakumar mhk 2.Latha hemanth (Mom)
+1.Jayakumar mhk /n2.Latha hemanth (Mom)
 
 # LIC fixed later Income
 1.Jayakumar mhk
